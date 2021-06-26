@@ -1,11 +1,10 @@
 console.log("Multiplication-Tables");
 
-/*
+
 for (let i = 1; i <= 10; i++) {
     const multiply = i * 9;
     console.log(i + " x 9 = " + multiply);
   }
-*/
 
   // Bonus
   // Use a nested for loop to write the multiplication tables of 1 until 10. Start the loop at the lowest number (1)
